@@ -1,0 +1,10 @@
+
+# pixi environments
+.pixi
+*.egg-info
+
+data/FashionMNIST
+
+.ipynb_checkpoints
+
+model.pth
