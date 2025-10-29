@@ -8,3 +8,7 @@ data/FashionMNIST
 .ipynb_checkpoints
 
 model.pth
+
+__pycache__
+
+*_cache
